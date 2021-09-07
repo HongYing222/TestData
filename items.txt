@@ -1,0 +1,6 @@
+C10,Jogging pants'
+C01, Airism T shirt
+C03, Socks
+C05, Polo T
+C11, Shorts
+
